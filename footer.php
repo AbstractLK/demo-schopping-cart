@@ -1,1 +1,1 @@
-<?php echo "<h1>My Foot</h1>"; ?>
+<?php echo "<h1>My Footer</h1>"; ?>
